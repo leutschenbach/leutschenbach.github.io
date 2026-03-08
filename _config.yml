@@ -1,0 +1,15 @@
+title: Verein Siedlung Leutschenbach
+email: "siedlung@leutschenbach.ch"
+description: >-
+  Willkommen auf der Webseite des Vereins Siedlung Leutschenbach
+baseurl: ""
+url: "https://leutschenbach.ch"
+minimal_mistakes_skin: "default"
+
+# Build settings
+remote_theme: leutschenbach/minimal-mistakes
+
+header_pages: []
+
+plugins:
+  - jekyll-include-cache
